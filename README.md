@@ -13,7 +13,7 @@ Our team's project focuses on **"Using Sensors to Manage the Water Level of an A
 
 ### **Step 1: Hardware Setup**
 
-Ensure that your hardware is connected correctly as shown in the image below (image of your hardware setup should be inserted here).
+Ensure that your hardware is connected correctly as shown in the demo video.
 
 ### **Step 2: Software Setup**
 
