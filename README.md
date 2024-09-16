@@ -100,6 +100,13 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 Make sure the correct port is selected by going to **Tools > Port** and choosing the port to which your ESP8266 is connected.
 
 ---
+**Demo Video**:
+
+
+https://github.com/user-attachments/assets/ea052261-6f07-445e-86cd-aaba6d0418da
+
+
+
 
 ## **License**
 
